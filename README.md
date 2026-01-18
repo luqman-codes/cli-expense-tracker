@@ -1,1 +1,3 @@
-# cli-expense-tracker
+## Run
+```bash
+python -m src.app
